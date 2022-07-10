@@ -1,7 +1,9 @@
 <div align="center">
   
 
-![chae](https://pbs.twimg.com/media/FRV_bK9UUAAy6IE?format=jpg&name=large)
+
+<img src="https://pbs.twimg.com/media/FRV_bK9UUAAy6IE?format=jpg&name=large" width="180" height="240"/>
+
 
 i love circle 🌸
 
