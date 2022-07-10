@@ -1,6 +1,7 @@
-<center>
+<div align="center">
+  
 
-![chae](http://file3.instiz.net/data/cached_img/upload/2019/02/28/10/6f54cc6dac57266126c67a5f85b91070_mp4.gif)
+![chae](https://pbs.twimg.com/media/FRV_bK9UUAAy6IE?format=jpg&name=large)
 
 i love circle 🌸
 
@@ -11,8 +12,6 @@ i love circle 🌸
 ----
 
 
-
-
 [my blog 💕](https://yangu1455.tistory.com/)
 
 [1D1Q ❤️‍🔥](https://github.com/yangu1455/Algorithm)
@@ -21,4 +20,6 @@ i love circle 🌸
 
 [Job-research 🔍](https://github.com/yangu1455/job-research)
 
-</center>
+ 
+
+</div>
