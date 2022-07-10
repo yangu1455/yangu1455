@@ -1,11 +1,15 @@
 <div align="center">
   
 
-
-<img src="https://pbs.twimg.com/media/FRV_bK9UUAAy6IE?format=jpg&name=large" width="360" height="480"/>
-
-
 i love circle 🌸
+
+<img src="https://pbs.twimg.com/media/FRV_bK9UUAAy6IE?format=jpg&name=large" width="450" height="600"/>
+
+
+
+
+
+
 
 
 
