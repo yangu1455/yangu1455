@@ -18,13 +18,18 @@
   [![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=senga0323)](https://solved.ac/senga0323) -->
 
 
-----
+  <!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=senga0323)](https://solved.ac/senga0323/) -->
+
+
+  <br>
+  <br>
+  <br>
   <br>
 
   <!-- <img align="left" src="https://i.pinimg.com/564x/2c/06/46/2c064687a1ab8f009ba2e0c761c6d8b6.jpg" width="500" height="400"/> -->
 
 
-  <!-- 🌸🌸🌸 -->
+  🌸🌸🌸
 
   <br>
 
