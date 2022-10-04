@@ -7,21 +7,9 @@
 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yangu1455&layout=compact&theme=tokyonight)
 
-
   ![senga0323's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=senga0323)
 
-  <!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=senga0323)](https://solved.ac/senga0323)
 
-
-  [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=senga0323)](https://solved.ac/senga0323)
-
-  [![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=senga0323)](https://solved.ac/senga0323) -->
-
-
-  <!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=senga0323)](https://solved.ac/senga0323/) -->
-
-
-  <br>
   <br>
   <br>
   <br>
