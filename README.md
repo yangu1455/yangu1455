@@ -1,5 +1,7 @@
 <div align="center">
     
+  <br>
+
   ```
   Hello World 🌏
   Welcome to my github ✨
@@ -24,11 +26,19 @@
 
   🌸🌸🌸
 
+  <br>
+
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyangu1455&count_bg=%23216B8A&title_bg=%23E3D0FF&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+  <br>
 
   ![yangu1455's GitHub stats](https://github-readme-stats.vercel.app/api?username=yangu1455&show_icons=true&theme=tokyonight)
 
+  <br>
+
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yangu1455&layout=compact&theme=tokyonight)
+
+  <br>
 
   ![senga0323's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=senga0323)
 
