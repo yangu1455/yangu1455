@@ -3,16 +3,14 @@
   <br>
 
 ```
-Hello World 🌏
-Welcome to my github ✨
-And have a good day 👋🏻
+This is YANGU1455's github ❤️
 ```
 
   <br>
 
   <!-- [my blog 💕](https://yangu1455.tistory.com/) -->
 
-[1D1Q ❤️‍🔥](https://github.com/yangu1455/Algorithm)
+[Algorithm 💦](https://github.com/yangu1455/Algorithm)
 
 [TIL 📚](https://github.com/yangu1455/TIL)
 
@@ -29,6 +27,10 @@ And have a good day 👋🏻
   <br>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyangu1455&count_bg=%23216B8A&title_bg=%23E3D0FF&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+  <!--<br>
+
+   <img align='center' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=yangu1455"> -->
 
   <br>
 
