@@ -3,12 +3,16 @@
   <br>
 
 ```
-This is YANGU1455's github ❤️
+안녕하세요 🙂
+프론트엔드 개발자 지망하고 있습니다.
+꾸준하게 노력하는 사람이 되고싶습니다 ❤️‍🔥❤️‍🔥❤️‍🔥
 ```
 
   <br>
 
   <!-- [my blog 💕](https://yangu1455.tistory.com/) -->
+
+[Project 🍎](https://yangu1455.github.io/)
 
 [Algorithm 💦](https://github.com/yangu1455/Algorithm)
 
@@ -26,13 +30,11 @@ This is YANGU1455's github ❤️
 
   <br>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyangu1455&count_bg=%23216B8A&title_bg=%23E3D0FF&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+<!-- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyangu1455&count_bg=%23216B8A&title_bg=%23E3D0FF&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) -->
 
-  <!--<br>
+  <!--<br>-->
 
-   <img align='center' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=yangu1455"> -->
-
-  <br>
+<!-- <img align='center' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=yangu1455"> -->
 
 ![yangu1455's GitHub stats](https://github-readme-stats.vercel.app/api?username=yangu1455&show_icons=true&theme=tokyonight)
 
