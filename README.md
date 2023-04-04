@@ -4,7 +4,9 @@
 
 ```
 안녕하세요 🙂
+
 프론트엔드 개발자 지망하고 있습니다.
+
 꾸준하게 노력하는 사람이 되고싶습니다 ❤️‍🔥❤️‍🔥❤️‍🔥
 ```
 
@@ -36,15 +38,15 @@
 
 <!-- <img align='center' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=yangu1455"> -->
 
-![yangu1455's GitHub stats](https://github-readme-stats.vercel.app/api?username=yangu1455&show_icons=true&theme=tokyonight)
-
-  <br>
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yangu1455&layout=compact&theme=tokyonight)
 
   <br>
 
-![senga0323's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=senga0323)
+![yangu1455's GitHub stats](https://github-readme-stats.vercel.app/api?username=yangu1455&show_icons=true&theme=tokyonight)
+
+  <br>
+
+<!-- ![senga0323's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=senga0323) -->
 
   <br>
 
