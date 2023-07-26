@@ -2,13 +2,13 @@
     
   <br>
 
-```
-“인생은 B(Birth)와 D(Death) 사이의 C(Choice)다”
-```
+  <img align='center' src='https://i.pinimg.com/564x/a5/da/a6/a5daa6a5133355111ecdee0c7e67b729.jpg'>
 
   <br>
 
-  <img align='center' src='https://i.pinimg.com/564x/a5/da/a6/a5daa6a5133355111ecdee0c7e67b729.jpg'>
+```
+“인생은 B(Birth)와 D(Death) 사이의 C(Chicken)다”
+```
 
   <br>
   <br>
@@ -22,7 +22,7 @@
 
 [TIL 📚](https://github.com/yangu1455/TIL)
 
-[Job-research 🔍](https://github.com/yangu1455/job-research)
+<!-- [Job-research 🔍](https://github.com/yangu1455/job-research) -->
 
   <br>
 
